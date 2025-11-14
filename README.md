@@ -10,7 +10,7 @@ Uso pleno de Python para la creacion de imagenes cambiando colores usando arrays
 > [!TIP]
 Se dejo el codigo para un copiado más simple tomando en cuenta que puede usarse de forma más simple así.
 
-```
+```html
 # crear una carpeta de salida si no existe
 if not os.path.exists("output_imagenes"):
     os.makedirs("output_imagenes")
